@@ -1,0 +1,44 @@
+body
+{
+    font-style: italic;
+    font-family: fantasy;
+    background-color: #cacfd2;
+}
+.wrapper
+{
+    margin:5%;
+    padding: 5%;
+    background-color: #fdfefe;
+    border-radius: 10px 10px 10px 10px;
+    width: 75%;
+    min-width: 1200px;
+}
+.formTable
+{
+    border-spacing: 15px;
+    text-align: left;
+    color:  #34495e;
+    background-color:  #d7dbdd;
+    border-radius: 5px 5px 5px 5px;
+}
+.button
+{
+    border-radius: 2px 2px 2px 2px;
+    background-color:  #34495e;
+    color: white;
+    font-weight: bold;
+    padding: 5%;
+    width: 100%;
+    border: none;
+}
+.formDiv
+{
+    margin: 2%;
+}
+.imageBlock
+{
+    border-color: #2e4053;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 2px 2px 2px 2px;
+}
