@@ -11,7 +11,7 @@ A project to demonstrate how to use the AMAZON WEB SERVICES
 #CHANGE YOUR USERNAME , LOCALHOST , DATABASE NAME , PASSWORD IN API->CONFIG->config.php
 
 
-
+<b>Table Structure (name = images)</b>
 <table>
   <tr>
     <td>ID</td>
