@@ -1,5 +1,5 @@
 # awsImageGallery
-A project to demonstrate how to use the cloud
+A project to demonstrate how to use the AMAZON WEB SERVICES
 
 #Create a image schema with following attribute
 #ID          |   INT   | PRIMARY KEY
@@ -9,3 +9,15 @@ A project to demonstrate how to use the cloud
 #DATE        | DATE    | NOT NULL
 
 #CHANGE YOUR USERNAME , LOCALHOST , DATABASE NAME , PASSWORD IN API->CONFIG->config.php
+
+
+
+<table>
+  <tr>
+    <td>ID</td>
+    <td>NAME</td>
+    <td>DESCRIPTION</td>
+    <td>URL</td>
+    <td>DATE</td>
+  </tr>
+</table>
